@@ -14,3 +14,9 @@ grid-row-start
 grid-row-end 
 grid-column
 grid-row 
+
+closure: 
+
+a closure is a c ombination of a function and the lexical environment from which it was diclared. closure allows a function to access variables from an enclosing scope-enviroment even after it leaves the scope in which it was declared.
+
+allows data encapsulation
