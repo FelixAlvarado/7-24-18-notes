@@ -20,3 +20,12 @@ closure:
 a closure is a c ombination of a function and the lexical environment from which it was diclared. closure allows a function to access variables from an enclosing scope-enviroment even after it leaves the scope in which it was declared.
 
 allows data encapsulation
+
+ajacency matrix:
+
+A matrix with vertices listed on the sides as indeices and squares are given if there is an edge  btw the vertices and a O if not.
+
+ajacency list benefits:
+
+less memory  
+better space (O(e))
